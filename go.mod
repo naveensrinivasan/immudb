@@ -19,7 +19,7 @@ require (
 	github.com/rs/xid v1.2.1
 	github.com/spf13/afero v1.3.4 // indirect
 	github.com/spf13/cobra v1.0.0
-	github.com/spf13/viper v1.6.3
+	github.com/spf13/viper v1.7.1
 	github.com/stretchr/testify v1.6.1
 	github.com/takama/daemon v0.12.0
 	golang.org/x/crypto v0.0.0-20201208171446-5f87f3452ae9
