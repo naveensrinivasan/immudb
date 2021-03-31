@@ -9,7 +9,7 @@ require (
 	github.com/grpc-ecosystem/go-grpc-middleware v1.0.0
 	github.com/grpc-ecosystem/go-grpc-prometheus v1.2.0
 	github.com/grpc-ecosystem/grpc-gateway v1.16.0
-	github.com/jaswdr/faker v1.0.2
+	github.com/jaswdr/faker v1.3.0
 	github.com/o1egl/paseto v1.0.0
 	github.com/peterh/liner v1.2.0
 	github.com/prometheus/client_golang v1.5.1
