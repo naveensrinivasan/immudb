@@ -3,6 +3,7 @@ module github.com/codenotary/immudb
 go 1.13
 
 require (
+	github.com/armon/consul-api v0.0.0-20180202201655-eb2c6b5be1b6 // indirect
 	github.com/fatih/color v1.9.0
 	github.com/gizak/termui/v3 v3.1.0
 	github.com/golang/protobuf v1.4.3
@@ -18,10 +19,11 @@ require (
 	github.com/rogpeppe/go-internal v1.6.2
 	github.com/rs/xid v1.2.1
 	github.com/spf13/afero v1.3.4 // indirect
-	github.com/spf13/cobra v1.0.0
-	github.com/spf13/viper v1.6.3
+	github.com/spf13/cobra v1.1.3
+	github.com/spf13/viper v1.7.0
 	github.com/stretchr/testify v1.6.1
 	github.com/takama/daemon v0.12.0
+	github.com/xordataexchange/crypt v0.0.3-0.20170626215501-b2862e3d0a77 // indirect
 	golang.org/x/crypto v0.0.0-20201208171446-5f87f3452ae9
 	golang.org/x/net v0.0.0-20201209123823-ac852fbbde11 // indirect
 	golang.org/x/sys v0.0.0-20201207223542-d4d67f95c62d
