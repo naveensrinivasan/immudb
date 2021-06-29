@@ -5,7 +5,7 @@ go 1.13
 require (
 	github.com/fatih/color v1.9.0
 	github.com/gizak/termui/v3 v3.1.0
-	github.com/golang/protobuf v1.4.3
+	github.com/golang/protobuf v1.5.0
 	github.com/grpc-ecosystem/go-grpc-middleware v1.0.0
 	github.com/grpc-ecosystem/go-grpc-prometheus v1.2.0
 	github.com/grpc-ecosystem/grpc-gateway v1.16.0
@@ -28,7 +28,7 @@ require (
 	golang.org/x/text v0.3.4 // indirect
 	google.golang.org/genproto v0.0.0-20201207150747-9ee31aac76e7
 	google.golang.org/grpc v1.34.0
-	google.golang.org/protobuf v1.25.0
+	google.golang.org/protobuf v1.27.1
 	gopkg.in/yaml.v2 v2.4.0 // indirect
 )
 
