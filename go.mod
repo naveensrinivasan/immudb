@@ -22,10 +22,9 @@ require (
 	github.com/spf13/viper v1.6.3
 	github.com/stretchr/testify v1.6.1
 	github.com/takama/daemon v0.12.0
-	golang.org/x/crypto v0.0.0-20201208171446-5f87f3452ae9
-	golang.org/x/net v0.0.0-20201209123823-ac852fbbde11 // indirect
-	golang.org/x/sys v0.0.0-20201207223542-d4d67f95c62d
-	golang.org/x/text v0.3.4 // indirect
+	golang.org/x/crypto v0.0.0-20210921155107-089bfa567519
+	golang.org/x/sys v0.0.0-20220722155257-8c9f86f7a55f
+	golang.org/x/text v0.3.8 // indirect
 	google.golang.org/genproto v0.0.0-20201207150747-9ee31aac76e7
 	google.golang.org/grpc v1.34.0
 	google.golang.org/protobuf v1.25.0
