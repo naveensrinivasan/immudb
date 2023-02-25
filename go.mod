@@ -24,7 +24,7 @@ require (
 	github.com/takama/daemon v0.12.0
 	golang.org/x/crypto v0.0.0-20201208171446-5f87f3452ae9
 	golang.org/x/net v0.0.0-20201209123823-ac852fbbde11 // indirect
-	golang.org/x/sys v0.0.0-20201207223542-d4d67f95c62d
+	golang.org/x/sys v0.1.0
 	golang.org/x/text v0.3.4 // indirect
 	google.golang.org/genproto v0.0.0-20201207150747-9ee31aac76e7
 	google.golang.org/grpc v1.34.0
